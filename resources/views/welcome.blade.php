@@ -31,7 +31,7 @@
                     <img src="{{ asset('image/logo.png') }}" 
                         alt="Mama Lit's Logo" 
                         style="width: 50px; height: auto; margin-right: 10px;">
-                    <span>Mama Lit's Food House</span>
+                    <span>Tuslob Buwa Resto Bar Bais City </span>
                 </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" 

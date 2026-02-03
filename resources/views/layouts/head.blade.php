@@ -22,7 +22,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script><!-- Para sa modal para ma save -->
 
-     <link rel="stylesheet" href="{{ asset('css/subject/styles.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/subject/styles.css') }}">
 
     @stack('head-scripts') <!-- optional stack for page-specific scripts -->
 </head>

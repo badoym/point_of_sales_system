@@ -1,7 +1,7 @@
 <div class="sidebar">
     <img src="{{ asset('image/logo.png') }}" alt="Jewelry Logo" width="60" class="mt-3 mx-auto d-block">
-    <h5 class="text-center mt-1 mb-0 text-light">MAMA LITS</h5>
-    <h6 class="text-center mt-1 mb-0 text-light">Food House</h6>
+    <h5 class="text-center mt-1 mb-0 text-light">TUSLOB BUWA</h5>
+    <h6 class="text-center mt-1 mb-0 text-light">De Bais</h6>
     <br>
     <a href="{{ route('admin.dashboard.index') }}" 
        class="{{ request()->routeIs('admin.dashboard.index') ? 'active' : '' }}">
